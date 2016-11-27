@@ -1,0 +1,51 @@
+/*////////// GRID //////////*/
+
+.container {
+  width: 980px;
+  margin: 0 auto;
+}
+
+   Set width to 960 pixels and
+   center using auto margin.
+*/
+
+
+
+/* Create a row class.
+
+   Set rows to clear past the
+   height of each other and also
+   add the code for clearfix to all rows
+   so they do not collapse their height despite
+   having floating children inside them.
+*/
+
+
+
+/* Create an attribute selector to select
+   all elements with a class value containing "col-".
+
+   Set columns to float so they will
+   display side by side horizontally.
+
+   Give them 2 percent margin on the left side.
+*/
+
+
+
+/* Make sure to set the first "col-" to zero margin on
+   its left side.
+*/
+
+
+
+/* Create a col-4, col-8, and col-12 classes.
+
+   Set each to have the appropriate width to take up
+   4,8, or 12 of 12 possible grid widths.
+
+   Hint: to figure out the width of a column start
+   with 100% and subtract the 2% for margin beside
+   all columns except the first, then divide that
+   number by the number of columns.
+*/
